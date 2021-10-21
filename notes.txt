@@ -1,0 +1,4 @@
+port: 6310
+public ip: 76.121.141.32
+internal ip: 192.168.1.39
+
